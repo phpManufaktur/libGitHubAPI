@@ -1,4 +1,3 @@
-libGitHubAPI
-============
+# libGitHubAPI
 
-WebsiteBaker &amp; LEPTON CMS library for easy access to the GitHubAPI
+A library for the CMS WebsiteBaker and LEPTON CMS which enable a easy access to the GitHub API 
