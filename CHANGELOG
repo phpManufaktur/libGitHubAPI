@@ -1,5 +1,9 @@
 ### libGitHubAPI
 
+0.13 - 2012-06-15
+
+* fixed a WebsiteBaker compatibility problem
+
 0.12 - 2012-06-14
 
 * removed WebsiteBaker version check

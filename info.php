@@ -34,7 +34,7 @@ if (defined('WB_PATH')) {
 $module_directory = 'lib_githubapi';
 $module_name = 'libGitHubAPI';
 $module_function = (defined('LEPTON_VERSION')) ? 'library' : 'snippet';
-$module_version = '0.12';
+$module_version = '0.13';
 $module_status = 'Stable';
 $module_platform = '2.8';
 $module_author = 'Ralf Hertsch - Berlin (Germany)';
